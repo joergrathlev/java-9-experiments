@@ -1,2 +1,4 @@
 *.tar.gz
 /.vagrant/
+*.class
+target/
